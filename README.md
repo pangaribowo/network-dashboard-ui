@@ -2,9 +2,9 @@
 
 A modern, responsive network monitoring dashboard built with React, Tailwind CSS, and Recharts.
 
-## GitHub.io
+## GitHub.io Preview
 
-https://pangaribowo.github.io/network-dashboard-ui
+[Network Dashboard UI Preview](https://pangaribowo.github.io/network-dashboard-ui)
 
 ## Features
 
