@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/network-dashboard-ui/static/css/main.a359172b.css",
+    "main.js": "/network-dashboard-ui/static/js/main.c59fcbfa.js",
+    "static/js/453.de462782.chunk.js": "/network-dashboard-ui/static/js/453.de462782.chunk.js",
+    "index.html": "/network-dashboard-ui/index.html",
+    "main.a359172b.css.map": "/network-dashboard-ui/static/css/main.a359172b.css.map",
+    "main.c59fcbfa.js.map": "/network-dashboard-ui/static/js/main.c59fcbfa.js.map",
+    "453.de462782.chunk.js.map": "/network-dashboard-ui/static/js/453.de462782.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a359172b.css",
+    "static/js/main.c59fcbfa.js"
+  ]
+}
