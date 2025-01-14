@@ -2,6 +2,10 @@
 
 A modern, responsive network monitoring dashboard built with React, Tailwind CSS, and Recharts.
 
+## GitHub.io
+
+https://pangaribowo.github.io/network-dashboard-ui
+
 ## Features
 
 - Real-time bandwidth usage monitoring
@@ -62,10 +66,22 @@ network-dashboard/
 │   └── index.html
 ├── src/
 │   ├── components/
+│   │   ├── ui/
+│   │   │   ├── alert.jsx
+│   │   │   ├── select.jsx
+│   │   │   └── slider.jsx
 │   │   └── NetworkDashboard.jsx
+│   ├── lib/
+│   │   └── utils.js
 │   ├── App.js
-│   └── index.js
+│   ├── index.js
+│   ├── index.css
+│   └── reportWebVitals.js
+├── .gitignore
+├── LICENSE
 ├── package.json
+├── postcss.config.js
+├── tailwind.config.js
 └── README.md
 ```
 
